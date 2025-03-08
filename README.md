@@ -1,4 +1,4 @@
-# this-is-fine
+# tech-links
 
 ## Useful Resources
 
