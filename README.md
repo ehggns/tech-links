@@ -911,7 +911,7 @@
 
 [Insomnia](https://insomnia.rest/download)
 
-## Utils
+## Miscellaneous
 
 [Top 1000 Repos](https://top1000repos.com/)
 
