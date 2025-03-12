@@ -310,7 +310,7 @@
 
 [Madrona - The AI Agent Infrastructure Stack — Three Defining Layers: Tools, Data, and Orchestration](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
 
-### Machine Learning
+### Machine Learning - ML
 
 [Best Online Master's in Machine Learning Programs](https://www.mastersinai.org/degrees/online-masters-in-machine-learning/)
 
@@ -321,6 +321,8 @@
 [ML system design: 300 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 
 [Aprendizado de máquina: uma abordagem estatística](https://rafaelizbicki.com/ame/)
+
+[Decoding ML - Master Production AI with Our End-to-End Open-Source Courses](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 
 ## Software architecture
 
