@@ -100,6 +100,8 @@
 
 [Remote4me](https://remote4me.com/#jobs)
 
+[Mercor](https://work.mercor.com/)
+
 ## Operating System
 
 [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
@@ -309,6 +311,8 @@
 [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 
 [Madrona - The AI Agent Infrastructure Stack — Three Defining Layers: Tools, Data, and Orchestration](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
+
+[Smithery AI - model context protocol](https://smithery.ai/)
 
 ### Machine Learning - ML
 
@@ -696,6 +700,10 @@
 ### C#
 
 [balta.io C#](https://balta.io/)
+
+### C++
+
+[Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase](https://abseil.io/about/)
 
 ### Elixir & Phoenix Framework
 
