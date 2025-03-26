@@ -613,6 +613,8 @@
 
 [byteSizeGo](https://www.bytesizego.com/blog)
 
+[Optimizing Go Microservices](https://muratdemirci.com.tr/en/optimizing-go-microservices/)
+
 ### Ruby
 
 [Ruby Documentation](https://ruby-doc.org/3.0.4/)
