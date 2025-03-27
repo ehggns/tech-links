@@ -284,6 +284,8 @@
 
 [Lovable - Lovable is your superhuman full stack engineer](https://lovable.dev/)
 
+[Copy any UI - Prompt URL to make pixel perfect copies](https://same.new)
+
 ### Prompt Engineering
 
 [Prompt Engineering - Plataform OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
@@ -313,6 +315,8 @@
 [Madrona - The AI Agent Infrastructure Stack — Three Defining Layers: Tools, Data, and Orchestration](https://www.madrona.com/ai-agent-infrastructure-three-layers-tools-data-orchestration/)
 
 [Smithery AI - model context protocol](https://smithery.ai/)
+
+[Agnos AI - Agno is a lightweight library for building Multimodal Agents](https://docs.agno.com/introduction)
 
 ### Machine Learning - ML
 
