@@ -102,6 +102,8 @@
 
 [Mercor](https://work.mercor.com/)
 
+[TrueUp - Don't miss your dream tech job](https://www.trueup.io/)
+
 ## Operating System
 
 [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
