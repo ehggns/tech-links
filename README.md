@@ -178,6 +178,10 @@
 
 [RDStation - Automação de Marketing Digital](https://www.rdstation.com/)
 
+## Logic Design and Computer Architecture
+
+[WeMips](https://rivoire.cs.sonoma.edu/cs351/wemips/)
+
 ## Compilers
 
 [Compiler Books](https://freecomputerbooks.com/compscCompilerBooks.html)
@@ -321,6 +325,8 @@
 [Agnos AI - Agno is a lightweight library for building Multimodal Agents](https://docs.agno.com/introduction)
 
 ### Machine Learning - ML
+
+[Machine Learning Systems - Harvard Edge](https://mlsysbook.ai/)
 
 [Best Online Master's in Machine Learning Programs](https://www.mastersinai.org/degrees/online-masters-in-machine-learning/)
 
