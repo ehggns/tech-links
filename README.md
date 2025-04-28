@@ -12,7 +12,9 @@
 
 [Wolfram Cloud](https://www.wolframcloud.com/)
 
-## Job Career 
+## Career & Jobs 
+
+[Levels - Insights on companies, salaries, jobs and more!](https://www.levels.fyi/t)
 
 [Career Flow](https://www.careerflow.ai/)
 
