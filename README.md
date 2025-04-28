@@ -393,6 +393,8 @@
 
 ## Data Structures & Algorithms - DSA
 
+[Algorithms by Jeff Erickson - University of Illinois, Urbana-Champaign](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+
 [The Algorithms](https://the-algorithms.com/)
 
 [Estrutura de Dados - Unicamp](https://www.ic.unicamp.br/~lee/mc202/index.html#listas)
