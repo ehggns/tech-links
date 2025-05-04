@@ -429,7 +429,7 @@
 
 [Sorting Visualizer](https://sadanandpai.github.io/sorting-visualizer/dist/)
 
-### Leetcode Coding Interview
+### LeetCode Coding Interview - Blind75 - NeetCode150 - Strivers' 450
 
 [Tech Interview Handbook - Free curated interview preparation materials for busy people - Blind75/Grind75](https://www.techinterviewhandbook.org/)
 
@@ -456,6 +456,14 @@
 [Algorithms Illuminated, Part 4: Algorithms for NP-Hard Problems](https://www.youtube.com/playlist?list=PLEGCF-WLh2RK6lq3iSsiU84rWVee3A-hz)
 
 [Tim Roughgarden Lectures](https://www.youtube.com/@timroughgardenlectures1861)
+
+[Strivers A2Z DSA Course - Take U Foward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+
+[Strivers A2Z-DSA Course | DSA Playlist - Take U Foward](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+
+[450 DSA Cracker - Your Gateway to crack DSA](https://450dsa.com/)
+
+[Striver DSA Sheet](https://sachuverma.github.io/DataStructures-Algorithms/Striver%20Sheet/)
 
 ### Tips for LeetCode
 
