@@ -218,9 +218,19 @@
 
 [Oxford Online programmes](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes)
 
-### Probability
+### Linear Algebra
+
+[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/chap-algebra.html)
+
+[Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+
+[A Birds-Eye View of Linear Algebra: Why Is Matrix Multiplication Like That?](https://towardsdatascience.com/a-birds-eye-view-of-linear-algebra-why-is-matrix-multiplication-like-that-a4d94067651e)
+
+### Probability & Statistics
 
 [Introdução à Teoria das Probabilidades](https://sites.icmc.usp.br/francisco/roteiro.html)
+
+[Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html)
 
 ### Bayesian Statistics
 
@@ -235,6 +245,20 @@
 [Introduction to Bayesian statistics, part 1: The basic concepts](https://www.youtube.com/watch?v=0F0QoMCSKJ4)
 
 [Bayesian Statistics | Full University Course](https://www.youtube.com/watch?v=ERjV-xUI5Sw)
+
+### Category Theory
+
+[Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+[Introduction to Category Theory](https://en.wikiversity.org/wiki/Introduction_to_Category_Theory)
+
+[Logic Matters - Category theory: online lecture notes, etc.](https://www.logicmatters.net/categories/)
+
+[Logic Matters](https://www.logicmatters.net/books/)
+
+[Category Theory in Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/category-theory/) 
+
+[nLab category theory](https://ncatlab.org/nlab/show/category+theory)
 
 ## Artificial Intelligence - AI
 
@@ -326,6 +350,12 @@
 
 [Agnos AI - Agno is a lightweight library for building Multimodal Agents](https://docs.agno.com/introduction)
 
+[On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+
+[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+
 ### Machine Learning - ML
 
 [A Course in Machine Learning by Hal Daumé III](http://ciml.info/)
@@ -344,7 +374,7 @@
 
 [Decoding ML - Master Production AI with Our End-to-End Open-Source Courses](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 
-## Software architecture
+## Software Architecture
 
 [Software architect roadmap](https://roadmap.sh/software-architect)
 
@@ -372,26 +402,6 @@
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 [Deep Learning: Foundations and Concepts](https://issuu.com/cmb321/docs/deep_learning_ebook)
-
-## Category Theory
-
-[Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
-[Introduction to Category Theory](https://en.wikiversity.org/wiki/Introduction_to_Category_Theory)
-
-[Logic Matters - Category theory: online lecture notes, etc.](https://www.logicmatters.net/categories/)
-
-[Logic Matters](https://www.logicmatters.net/books/)
-
-[Category Theory in Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/category-theory/) 
-
-[nLab category theory](https://ncatlab.org/nlab/show/category+theory)
-
-## Linear Algebra
-
-[Graphical Linear Algebra](https://graphicallinearalgebra.net/)
-
-[A Birds-Eye View of Linear Algebra: Why Is Matrix Multiplication Like That?](https://towardsdatascience.com/a-birds-eye-view-of-linear-algebra-why-is-matrix-multiplication-like-that-a4d94067651e)
 
 ## Data Structures & Algorithms - DSA
 
@@ -495,7 +505,7 @@
 
 [Dynamic Programming](https://dp.quantecon.org/)
 
-## Learning techonology
+## Learning Techonology
 
 [Rapid API](https://rapidapi.com/learn)
 
@@ -514,6 +524,8 @@
 [Hacksplaining](https://www.hacksplaining.com/)
 
 [CodinGame](https://www.codingame.com/start/)
+
+[CS50](https://cs50.harvard.edu/college/2025/fall/)
 
 ### Functional Programming Articles
 
