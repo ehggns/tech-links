@@ -328,6 +328,8 @@
 
 ### Machine Learning - ML
 
+[A Course in Machine Learning by Hal Daumé III](http://ciml.info/)
+
 [Machine Learning Systems - Harvard Edge](https://mlsysbook.ai/)
 
 [Best Online Master's in Machine Learning Programs](https://www.mastersinai.org/degrees/online-masters-in-machine-learning/)
