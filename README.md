@@ -1,17 +1,5 @@
 # tech-links
 
-## Useful Resources
-
-[Free for Developers](https://free-for.dev/#/)
-
-[Product Hunt](https://www.producthunt.com/)
-
-[Econometrics Academy](https://sites.google.com/site/econometricsacademy/home?authuser=0)
-
-[Wolfram U](https://www.wolfram.com/wolfram-u/certifications/)
-
-[Wolfram Cloud](https://www.wolframcloud.com/)
-
 ## Career & Jobs 
 
 [Levels - Insights on companies, salaries, jobs and more!](https://www.levels.fyi/t)
@@ -38,7 +26,7 @@
 
 [How to explain the gaps in your CV](https://social.hays.com/2019/04/23/common-cv-gaps-explain-them-in-interview/?linkId=100000248635055)
 
-## Remote Jobs
+### Remote Jobs
 
 [Remotists](https://remotists.com/)
 
@@ -110,7 +98,7 @@
 
 [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
 
-## Design System
+## System Design
 
 [System Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
 
@@ -118,11 +106,24 @@
 
 [Design Gurus](https://www.designgurus.io/courses)
 
-## Sofware Engineering
+### Software Architecture
+
+[Software architect roadmap](https://roadmap.sh/software-architect)
+
+[Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
+
+[38 actions and insights to software architects](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+
+- [Microservices architecture](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/tactical-patterns/domain-application-infrastructure-services-pattern.html)
+  - [Table of Contents](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/SUMMARY.html)
+
+[Design Technologist](https://designtechnologist.club)
+
+### Sofware Engineering
 
 [Engenharia de Software Moderna](https://engsoftmoderna.info/)
 
-## Blogs Enterprises and Engineering
+### Blogs Enterprises and Engineering
 
 [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 
@@ -160,26 +161,6 @@
 
 [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#SEC_Contents)
 
-## Generic Tools
-
-[Tools for better thinking](https://untools.co/)
-
-[12ft](https://12ft.io/)
-
-[Darebee](https://darebee.com/)
-
-[Quillbot Paraphraser](https://quillbot.com/)
-
-[Open Library](https://openlibrary.org/)
-
-## Marketing Digital
-
-[Marketing Digital at rockcontent](https://rockcontent.com/br/blog/marketing-digital/)
-
-[The Noun Project - Icons and Photos for Everything](https://thenounproject.com/)
-
-[RDStation - Automação de Marketing Digital](https://www.rdstation.com/)
-
 ## Logic Design and Computer Architecture
 
 [WeMips](https://rivoire.cs.sonoma.edu/cs351/wemips/)
@@ -212,7 +193,7 @@
 
 ## Mathematics
 
-### Courses
+### Courses Lists
 
 [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
 
@@ -318,6 +299,22 @@
 
 [Copy any UI - Prompt URL to make pixel perfect copies](https://same.new)
 
+### Data Science
+
+[How to Get Your First Data Science Internship](https://www.freecodecamp.org/news/get-your-first-data-science-internship/)
+
+[Datasette - Find stories in data](https://datasette.io/)
+
+[Téo Me Why](https://teomewhy.org/courses)
+
+[Cursos em R](https://livro.curso-r.com/index.html)
+
+### Deep Learning
+
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
+[Deep Learning: Foundations and Concepts](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
 ### Prompt Engineering
 
 [Prompt Engineering - Plataform OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
@@ -374,34 +371,51 @@
 
 [Decoding ML - Master Production AI with Our End-to-End Open-Source Courses](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 
-## Software Architecture
+### Machine Learning Operations - MLOps
 
-[Software architect roadmap](https://roadmap.sh/software-architect)
+[How to Build an End-To-End ML Pipeline](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
 
-[Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
+[Mastering Modular Design for Machine Learning: Revamping Monolithic ML Software for Modularity](https://medium.datadriveninvestor.com/mastering-modular-design-for-machine-learning-ab92bfdb669e)
 
-[38 actions and insights to software architects](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+[Version Control for Machine Learning and Data Science](https://neptune.ai/blog/version-control)
 
-- [Microservices architecture](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/tactical-patterns/domain-application-infrastructure-services-pattern.html)
-  - [Table of Contents](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/SUMMARY.html)
+[What is Infrastructure as Code? Explained for Beginners](https://www.freecodecamp.org/news/infrastructure-as-code-basics/)
 
-[Design Technologist](https://designtechnologist.club)
+[A Beginner’s Tutorial for Understanding RESTful API](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api)
 
-## Data Science
+[Building a Machine Learning Microservice with FastAPI](https://developer.nvidia.com/blog/building-a-machine-learning-microservice-with-fastapi/)
 
-[How to Get Your First Data Science Internship](https://www.freecodecamp.org/news/get-your-first-data-science-internship/)
+[DNSimple](https://dnsimple.com/)
 
-[Datasette - Find stories in data](https://datasette.io/)
+### Python Machine Learning Artificial Intelligence Channels
 
-[Téo Me Why](https://teomewhy.org/courses)
+[sentdex](https://www.youtube.com/user/sentdex)
 
-[Cursos em R](https://livro.curso-r.com/index.html)
+[deeplearning.ai](https://www.youtube.com/c/deeplearningai)
 
-### Deep Learning
+[Corey Schafer](https://www.youtube.com/user/schafer5)
 
-[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+[Simplilearn](https://www.youtube.com/user/Simplilearn)
 
-[Deep Learning: Foundations and Concepts](https://issuu.com/cmb321/docs/deep_learning_ebook)
+[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+
+[Tech With Tim](https://www.youtube.com/c/TechWithTim)
+
+[Patrick Loeber Python Engineer](https://www.youtube.com/c/PythonEngineer)
+
+[codebasics](https://www.youtube.com/c/Codebasics)
+
+[The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+
+[Machine Learning TV](https://www.youtube.com/c/MachineLearningTV)
+
+[Data School](https://www.youtube.com/user/dataschool)
+
+[Sebastian Raschka](https://www.youtube.com/c/SebastianRaschka)
+
+[edureka!](https://www.youtube.com/c/edurekaIN)
+
+[Ken Jee](https://www.youtube.com/c/KenJee1)
 
 ## Data Structures & Algorithms - DSA
 
@@ -505,7 +519,7 @@
 
 [Dynamic Programming](https://dp.quantecon.org/)
 
-## Learning Techonology
+## Learning Techonology and Programming Languages
 
 [Rapid API](https://rapidapi.com/learn)
 
@@ -739,6 +753,14 @@
 
 [Rails design patterns: the big picture](https://rubyhero.dev/rails-design-patterns-the-big-picture)
 
+#### Ruby on Rails Tools
+
+[Build products faster in Ruby on Rails](https://jumpstartrails.com/)
+
+[Hatchbox - Rails hosting made simples for small business](https://hatchbox.io/)
+
+[Rest APIs and Swagger in Ruby on Rails](https://medium.com/@sushildamdhere/how-to-document-rest-apis-with-swagger-and-ruby-on-rails-ae4e13177f5d)
+
 ### C#
 
 [balta.io C#](https://balta.io/)
@@ -761,30 +783,28 @@
 
 [Commanded: Use Commanded to build your own Elixir applications following the CQRS/ES pattern](https://hexdocs.pm/commanded/Commanded.html)
 
-## Technology Tools
-
-### Ruby on Rails Tools
-
-[Build products faster in Ruby on Rails](https://jumpstartrails.com/)
-
-[Hatchbox - Rails hosting made simples for small business](https://hatchbox.io/)
-
-[Rest APIs and Swagger in Ruby on Rails](https://medium.com/@sushildamdhere/how-to-document-rest-apis-with-swagger-and-ruby-on-rails-ae4e13177f5d)
-
-## Entrepreneurship & Management
+## Entrepreneurship & Business
 
 - [What Matters - OKR 101](https://www.whatmatters.com/)
   - [Rick Klau, Google: OKRs (Objectives and Key Results) - How Hyper-Growth Startups Stay Focused](https://youtu.be/6iFPyyXlQSw) 
 
-## Product Management
+### Product Management - PM
 
 [Productboard Glossay](https://www.productboard.com/glossary/)
 
 [Snov.io Sales Glossary](https://snov.io/glossary/)
 
-## Sales
+### Sales
 
 [Produtividade para times de vendas remotas](https://reev.co/)
+
+## Digital Marketing
+
+[Marketing Digital at rockcontent](https://rockcontent.com/br/blog/marketing-digital/)
+
+[The Noun Project - Icons and Photos for Everything](https://thenounproject.com/)
+
+[RDStation - Automação de Marketing Digital](https://www.rdstation.com/)
 
 ## Low-code/No-code Development
 
@@ -883,57 +903,11 @@
 
 [Yoast SEO: the #1 WordPress SEO Plugin • Yoast](https://yoast.com/wordpress/plugins/seo/)
 
-## ML Ops
-
-[How to Build an End-To-End ML Pipeline](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
-
-[Mastering Modular Design for Machine Learning: Revamping Monolithic ML Software for Modularity](https://medium.datadriveninvestor.com/mastering-modular-design-for-machine-learning-ab92bfdb669e)
-
-[Version Control for Machine Learning and Data Science](https://neptune.ai/blog/version-control)
-
-[What is Infrastructure as Code? Explained for Beginners](https://www.freecodecamp.org/news/infrastructure-as-code-basics/)
-
-[A Beginner’s Tutorial for Understanding RESTful API](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api)
-
-[Building a Machine Learning Microservice with FastAPI](https://developer.nvidia.com/blog/building-a-machine-learning-microservice-with-fastapi/)
-
-[DNSimple](https://dnsimple.com/)
-
 ## Channels
 
 [AItrepeneur](https://www.youtube.com/@Aitrepreneur)
 
 [CodeMiner42](https://www.youtube.com/@Codeminer42TV/playlists?view=50&sort=dd&shelf_id=2)
-
-### Python Machine Learning Artificial Intelligence Channels
-
-[sentdex](https://www.youtube.com/user/sentdex)
-
-[deeplearning.ai](https://www.youtube.com/c/deeplearningai)
-
-[Corey Schafer](https://www.youtube.com/user/schafer5)
-
-[Simplilearn](https://www.youtube.com/user/Simplilearn)
-
-[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-
-[Tech With Tim](https://www.youtube.com/c/TechWithTim)
-
-[Patrick Loeber Python Engineer](https://www.youtube.com/c/PythonEngineer)
-
-[codebasics](https://www.youtube.com/c/Codebasics)
-
-[The Coding Train](https://www.youtube.com/c/TheCodingTrain)
-
-[Machine Learning TV](https://www.youtube.com/c/MachineLearningTV)
-
-[Data School](https://www.youtube.com/user/dataschool)
-
-[Sebastian Raschka](https://www.youtube.com/c/SebastianRaschka)
-
-[edureka!](https://www.youtube.com/c/edurekaIN)
-
-[Ken Jee](https://www.youtube.com/c/KenJee1)
 
 ## Computer Graphics
 
@@ -986,3 +960,27 @@
 [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/)
 
 [Relentlessly resourceful - Paul Graham](https://paulgraham.com/relres.html)
+
+## Useful Resources
+
+[Free for Developers](https://free-for.dev/#/)
+
+[Product Hunt](https://www.producthunt.com/)
+
+[Econometrics Academy](https://sites.google.com/site/econometricsacademy/home?authuser=0)
+
+[Wolfram U](https://www.wolfram.com/wolfram-u/certifications/)
+
+[Wolfram Cloud](https://www.wolframcloud.com/)
+
+## Generic Tools
+
+[Tools for better thinking](https://untools.co/)
+
+[12ft](https://12ft.io/)
+
+[Darebee](https://darebee.com/)
+
+[Quillbot Paraphraser](https://quillbot.com/)
+
+[Open Library](https://openlibrary.org/)
