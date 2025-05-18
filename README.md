@@ -309,6 +309,8 @@
 
 [Cursos em R](https://livro.curso-r.com/index.html)
 
+[Artificial Intelligence Course Channel - Vidya Mahesh Huddar](https://www.youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR)
+
 ### Deep Learning
 
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
