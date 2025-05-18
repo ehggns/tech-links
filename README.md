@@ -241,7 +241,7 @@
 
 [nLab category theory](https://ncatlab.org/nlab/show/category+theory)
 
-## Artificial Intelligence - AI
+## Artificial Intelligence Applications - AI apps
 
 [AI-powered search & chat for Data & Computer Science Students](https://aigents.co/learn)
 
@@ -299,6 +299,16 @@
 
 [Copy any UI - Prompt URL to make pixel perfect copies](https://same.new)
 
+### Artificial Intelligence Study Material - Optimizations and IA
+
+[Artificial Intelligence Course Channel - Vidya Mahesh Huddar](https://www.youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR)
+
+[Algorithm Afternoon](https://algorithmafternoon.com/)
+
+#### Agent Based Models - ABM
+
+[On-Line Guide for Newcomers to Agent-Based Modeling in the Social Sciences](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/abmread.htm)
+
 ### Data Science
 
 [How to Get Your First Data Science Internship](https://www.freecodecamp.org/news/get-your-first-data-science-internship/)
@@ -308,8 +318,6 @@
 [Téo Me Why](https://teomewhy.org/courses)
 
 [Cursos em R](https://livro.curso-r.com/index.html)
-
-[Artificial Intelligence Course Channel - Vidya Mahesh Huddar](https://www.youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR)
 
 ### Deep Learning
 
