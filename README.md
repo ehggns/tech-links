@@ -381,6 +381,8 @@
 
 [Decoding ML - Master Production AI with Our End-to-End Open-Source Courses](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 
+[Machine Learning from Scratch - Derivations in Concept and Code - Danny Friedman](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
 ### Machine Learning Operations - MLOps
 
 [How to Build an End-To-End ML Pipeline](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
