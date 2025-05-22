@@ -22,6 +22,8 @@
 
 [Software Developer jobs in Romania](https://devjob.ro/en)
 
+[Work in Finland](https://www.workinfinland.com/en/open-jobs/?category=ict)
+
 [Understand Compensation & Negotiation](https://www.tealhq.com/post/how-to-negotiate-a-job-offer)
 
 [How to explain the gaps in your CV](https://social.hays.com/2019/04/23/common-cv-gaps-explain-them-in-interview/?linkId=100000248635055)
