@@ -245,7 +245,9 @@
 
 [nLab category theory](https://ncatlab.org/nlab/show/category+theory)
 
-## Artificial Intelligence Applications - AI apps
+## Artificial Intelligence and Machine Learning
+
+### Artificial Intelligence Applications - AI apps
 
 [AI-powered search & chat for Data & Computer Science Students](https://aigents.co/learn)
 
@@ -323,12 +325,6 @@
 
 [Cursos em R](https://livro.curso-r.com/index.html)
 
-### Deep Learning
-
-[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-
-[Deep Learning: Foundations and Concepts](https://issuu.com/cmb321/docs/deep_learning_ebook)
-
 ### Prompt Engineering
 
 [Prompt Engineering - Plataform OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
@@ -388,6 +384,14 @@
 [Machine Learning from Scratch - Derivations in Concept and Code - Danny Friedman](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 [Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
+
+#### Deep Learning
+
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
+[Deep Learning: Foundations and Concepts](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
+[Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 ### Machine Learning Operations - MLOps
 
