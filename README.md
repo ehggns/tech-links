@@ -215,6 +215,8 @@
 
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html)
 
+[An Introduction to Statistical Learning - Statlearning - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani](https://www.statlearning.com/)
+
 ### Bayesian Statistics
 
 [A Student's Guide to Bayesian Statistics](https://youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG&si=tn2f_W3XUxu706Lc)
@@ -384,6 +386,8 @@
 [Decoding ML - Master Production AI with Our End-to-End Open-Source Courses](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 
 [Machine Learning from Scratch - Derivations in Concept and Code - Danny Friedman](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+[Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 
 ### Machine Learning Operations - MLOps
 
