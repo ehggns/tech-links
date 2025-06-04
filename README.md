@@ -431,6 +431,10 @@
 
 [Ken Jee](https://www.youtube.com/c/KenJee1)
 
+### Physics and Natural Sciences Code
+
+[Nature of Code by Daniel Shiffman](https://natureofcode.com/)
+
 ## Data Structures & Algorithms - DSA
 
 [Algorithms by Jeff Erickson - University of Illinois, Urbana-Champaign](https://jeffe.cs.illinois.edu/teaching/algorithms/)
