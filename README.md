@@ -393,6 +393,8 @@
 
 [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
+[Deep Learning on Graphs](https://yaoma24.github.io/dlg_book/)
+
 ### Machine Learning Operations - MLOps
 
 [How to Build an End-To-End ML Pipeline](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
@@ -496,6 +498,8 @@
 [Grind 75 questions - Indicate your preferences and we will recommend the best LeetCode questions for you to practice](https://www.techinterviewhandbook.org/grind75)
 
 [NeetCode - A better way to prepare for coding interviews](https://neetcode.io/)
+
+[LeetCode solutions in Golang](https://www.youtube.com/playlist?list=PL4stawHp0LmWXcyniHqVcFm_WW4ifyGbj)
 
 ### Algorithms Illuminated: Tim Roughgarden Lectures
 
