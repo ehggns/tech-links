@@ -108,6 +108,10 @@
 
 [Design Gurus](https://www.designgurus.io/courses)
 
+[High Level Design from Basics to Advanced](https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
+
+[Low Level Design from Basics to Advanced](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+
 ### Software Architecture
 
 [Software architect roadmap](https://roadmap.sh/software-architect)
@@ -216,6 +220,8 @@
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html)
 
 [An Introduction to Statistical Learning - Statlearning - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani](https://www.statlearning.com/)
+
+[Probability and Statistics for Data Science](https://www.ps4ds.net/)
 
 ### Bayesian Statistics
 
@@ -395,6 +401,10 @@
 
 [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book/)
 
+[Deep Learning by Professor Bryce](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
+
+[Understand and Implement an Artificial Neural Network from Scratch](https://tinztwinshub.com/data-science/a-beginners-guide-to-developing-an-artificial-neural-network-from-zero/)
+
 ### Machine Learning Operations - MLOps
 
 [How to Build an End-To-End ML Pipeline](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
@@ -482,6 +492,8 @@
 [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 [Sorting Visualizer](https://sadanandpai.github.io/sorting-visualizer/dist/)
+
+[The Interactive Handbook on Data Structures and Algorithms - Cartesian](https://cartesian.app/)
 
 ### LeetCode Coding Interview - Blind75 - NeetCode150 - Strivers' 450
 
