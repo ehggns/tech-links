@@ -197,6 +197,10 @@
 
 [Escola da Nuvem](https://escoladanuvem.org/cursos/)
 
+## Network Science
+
+[Network Science by A.-L. Barabási](https://networksciencebook.com/)
+
 ## Mathematics
 
 ### Courses Lists
