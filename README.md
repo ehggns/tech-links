@@ -125,9 +125,19 @@
 
 [Design Technologist](https://designtechnologist.club)
 
-### Sofware Engineering
+### Software Engineering
 
 [Engenharia de Software Moderna](https://engsoftmoderna.info/)
+
+[The Super Programmer](https://keyvan.me/tsp/0-preface.html)
+
+[How I Cut My Local Development Setup Time by 95% Using Makefile](https://commitcoffee.medium.com/how-i-cut-my-local-development-setup-time-by-95-using-makefile-c2c9838dc202)
+
+[How Staff+ Engineers Can Develop Strategic Thinking](https://www.infoq.com/articles/staff-plus-strategic-thinking/)
+
+#### Product Engineering
+
+[Product Engineering Manifesto](https://productengineer.org/)
 
 ### Blogs Enterprises and Engineering
 
@@ -177,21 +187,35 @@
 
 [Writing a Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 
+## Interpreters
+
+[Crafting Interpreters](https://craftinginterpreters.com/)
+
 ## Projects
 
 [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c)
 
 [Mastering Backend Projects](https://projects.masteringbackend.com/projects)
 
-## TDD
+## Testing
+
+### Test practices
+
+[Regression Testing](https://qase.io/blog/regression-testing/)
+
+### TDD
 
 [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd) 
 
 ## Database
 
+[drawDB - Free and open source, simple, and intuitive database design editor, data-modeler, and SQL generator](https://www.drawdb.app/)
+
 [dbdiagram](https://dbdiagram.io/home)
 
 [postgres.new](https://postgres.new/)
+
+[How to Design Structured Database Systems Using SQL](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/)
 
 ## Cloud Computing
 
@@ -201,7 +225,17 @@
 
 [Network Science by A.-L. Barabási](https://networksciencebook.com/)
 
+[Introdução às Redes Complexas](https://www.youtube.com/watch?v=ahkXabhcEMM)
+
+## Theoretical Computer Science
+
+[Margaret Fleck - Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
+
 ## Mathematics
+
+### Foundations of Mathematics
+
+[Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 
 ### Courses Lists
 
@@ -217,6 +251,8 @@
 
 [A Birds-Eye View of Linear Algebra: Why Is Matrix Multiplication Like That?](https://towardsdatascience.com/a-birds-eye-view-of-linear-algebra-why-is-matrix-multiplication-like-that-a4d94067651e)
 
+[Advanced Linear Algebra - University of Texas](https://www.edx.org/learn/linear-algebra/the-university-of-texas-at-austin-advanced-linear-algebra-foundations-to-frontiers)
+
 ### Probability & Statistics
 
 [Introdução à Teoria das Probabilidades](https://sites.icmc.usp.br/francisco/roteiro.html)
@@ -226,6 +262,14 @@
 [An Introduction to Statistical Learning - Statlearning - Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani](https://www.statlearning.com/)
 
 [Probability and Statistics for Data Science](https://www.ps4ds.net/)
+
+[Roteiro Probabilidades e Estatística - Prof. Francisco A. Rodrigues](https://sites.icmc.usp.br/francisco/roteiro.html)
+
+[Seeing Theory - A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
+
+[Introduction to Probability for Data Science - Stanley H. Chan](https://probability4datascience.com/)
+
+[Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik](https://www.probabilitycourse.com/)
 
 ### Bayesian Statistics
 
@@ -258,10 +302,6 @@
 ## Artificial Intelligence and Machine Learning
 
 ### Artificial Intelligence Applications - AI apps
-
-[AI-powered search & chat for Data & Computer Science Students](https://aigents.co/learn)
-
-[Roadmap to learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16#aed3)
 
 [Artificial Life](https://alife.org/)
 
@@ -317,9 +357,21 @@
 
 ### Artificial Intelligence Study Material - Optimizations and IA
 
+[AI-powered search & chat for Data & Computer Science Students](https://aigents.co/learn)
+
+[Roadmap to learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16#aed3)
+
 [Artificial Intelligence Course Channel - Vidya Mahesh Huddar](https://www.youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR)
 
 [Algorithm Afternoon](https://algorithmafternoon.com/)
+
+### AI Engineering
+
+[7 learnings from the AI Engineering SF World Fair 2025](https://ainativedev.io/news/ai-engineering-sf-fair-2025-learnings)
+
+[The 4 Patterns of AI Native Development — Patrick Debois](https://www.youtube.com/watch?v=9u6xvcNJaxc)
+
+[The AI Engineering Stack](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack)
 
 #### Agent Based Models - ABM
 
@@ -334,6 +386,10 @@
 [Téo Me Why](https://teomewhy.org/courses)
 
 [Cursos em R](https://livro.curso-r.com/index.html)
+
+### Data Engineering
+
+[Medallion Lakehouse by Téo](https://www.youtube.com/watch?v=bxBn7psbX64)
 
 ### Prompt Engineering
 
@@ -369,9 +425,9 @@
 
 [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 
-[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
-[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+[A Collectivist, Economic Perspective on AI](https://arxiv.org/pdf/2507.06268v1)
 
 ### Machine Learning - ML
 
@@ -395,6 +451,20 @@
 
 [Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 
+[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+
+[Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai/#table-of-contents)
+
+[Essential Machine Learning Concepts Animated](https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/)
+
+[Learn Time Series Forecasting in Python - Beau Carnes](https://www.freecodecamp.org/news/learn-time-series-forecasting-in-python/)
+
+[Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+
+[Feature Engineering - A user-friendly feature engineering alternative to Scikit-learn](https://feature-engine.trainindata.com/en/latest/index.html#)
+
+[What is machine learning - Freie Universität Berlin](https://www.geo.fu-berlin.de/en/v/soga-r/Machine-Learning/Machine-learning-Intro/index.html)
+
 #### Deep Learning
 
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
@@ -408,6 +478,8 @@
 [Deep Learning by Professor Bryce](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
 
 [Understand and Implement an Artificial Neural Network from Scratch](https://tinztwinshub.com/data-science/a-beginners-guide-to-developing-an-artificial-neural-network-from-zero/)
+
+[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Machine Learning Operations - MLOps
 
@@ -652,6 +724,12 @@
 [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 
 [c2rust](https://c2rust.com/)
+
+[REVM - Rust Ethereum Virtual Machine](https://bluealloy.github.io/revm/index.html)
+
+[Rust is the language of the AGI - Michael Yuan](https://www.youtube.com/watch?v=bbq0b_FpYEY)
+
+[Thinking in Rust: Ownership, Access, and Memory Safety](https://cocoindex.io/blogs/rust-ownership-access/)
 
 ### Crystal 
 
