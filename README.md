@@ -465,6 +465,12 @@
 
 [What is machine learning - Freie Universität Berlin](https://www.geo.fu-berlin.de/en/v/soga-r/Machine-Learning/Machine-learning-Intro/index.html)
 
+[ApX - Practical Guides For Local AI Hardware & Models](https://apxml.com/)
+
+[Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+
+[Skolar Probabl AI](https://skolar.probabl.ai/)
+
 #### Deep Learning
 
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
@@ -480,6 +486,8 @@
 [Understand and Implement an Artificial Neural Network from Scratch](https://tinztwinshub.com/data-science/a-beginners-guide-to-developing-an-artificial-neural-network-from-zero/)
 
 [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ### Machine Learning Operations - MLOps
 
